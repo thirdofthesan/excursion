@@ -1,8 +1,44 @@
 h1 {
-  font-size: 100px;
-  font-family:helvetica; 
-  text-align: center;
-  background-color: black
+  font-size: 50px;
+  font-family:verdana;
   color: white;
-  font-weight: bold;
+  text-align: center;
+  font-weight: normal;
+  }
+
+h2 {
+  font-family: verdana;
+  font-weight: 300;
+  color: white;
+  font-size: 47px
 }
+
+h4 {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+  }
+
+  body {
+    background-color: black;
+    text-align: center;
+  }
+
+
+    .link {
+        color: Aquamarine;
+        font-size: 16px;
+        }
+        
+  .guide {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+  }
+
+  .end {
+    text-align: right;
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+  }
